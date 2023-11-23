@@ -1,9 +1,11 @@
 ## Fullstack with Emre
 
 | Spring Boot | Architecture | Frontend |
+
 | -------- | -------- | -------- |-------- |
 
 | Security | Kubernetes | Cloud |
+
 | -------- | -------- | -------- | -------- |
 
 ---
