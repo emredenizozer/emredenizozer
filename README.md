@@ -1,4 +1,4 @@
-## Fullstack with Emre
+## Fullstack with Emre Deniz Özer 
 
 | Spring Boot | Architecture | Frontend |
 
