@@ -1,12 +1,11 @@
 ## Fullstack with Emre Deniz Özer 
 
 | Spring Boot | Architecture | Frontend |
-
-| -------- | -------- | -------- |-------- |
+| -------- | -------- | -------- |
 
 | Security | Kubernetes | Cloud |
-
-| -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- |
+| ... | ... | 1. [azure-inauguration](https://github.com/emredenizozer/azure-inauguration) |
 
 ---
 
