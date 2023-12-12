@@ -2,6 +2,7 @@
 
 | Spring Boot | Architecture | Frontend |
 | -------- | -------- | -------- |
+| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | ... | ... |
 
 | Security | Kubernetes | Cloud |
 | -------- | -------- | -------- |
