@@ -1,6 +1,6 @@
 ## Fullstack with Emre Deniz Özer 
 
-| Spring Boot | Architecture | Frontend |
+| Microservices | Architecture | Frontend |
 | -------- | -------- | -------- |
 | 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | ... | ... |
 
