@@ -2,7 +2,7 @@
 
 | Microservices | Architecture | Frontend |
 | -------- | -------- | -------- |
-| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | ... | ... |
+| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | ... | 1. [chatapp-with-react-graphql-nestjs-typescript](https://github.com/emredenizozer/chatapp) |
 
 | Security | GitOps | Cloud |
 | -------- | -------- | -------- |
