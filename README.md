@@ -1,6 +1,6 @@
 ## Fullstack with Emre Deniz Özer 
 
-| Microservices | Architecture | Frontend |
+| Microservices | Rust and Go Projects | Frontend | 
 | -------- | -------- | -------- |
 | 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | ... |  |
 | ... | ... |  |
