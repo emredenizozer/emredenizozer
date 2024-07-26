@@ -7,7 +7,7 @@
 
 | Security | GitOps | Cloud |
 | -------- | -------- | -------- |
-| ... | [argocd-demo](https://github.com/emredenizozer/argocd-demo) | 1. [azure-inauguration](https://github.com/emredenizozer/azure-inauguration) |
+| ... | [argocd-demo](https://github.com/emredenizozer/argocd-demo) |  |
 
 ---
 
