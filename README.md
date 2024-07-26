@@ -2,7 +2,7 @@
 
 | Microservices | Rust and Go Projects | Frontend | 
 | -------- | -------- | -------- |
-| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | ... |  |
+| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | 1. [monkey-interpreter-with-rust](https://github.com/emredenizozer/monkey-interpreter-with-rust) |  |
 | ... | ... |  |
 
 | Security | GitOps | Cloud |
