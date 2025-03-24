@@ -4,7 +4,7 @@
 | -------- | -------- | -------- | -------- |
 | 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | 1. [hangman](https://github.com/emredenizozer/hangman) |  | 1. [monkey-interpreter-with-rust](https://github.com/emredenizozer/monkey-interpreter-with-rust) |
 
-| Security | GitOps | Cloud | FinOps |
+| DevSecOps | GitOps | Cloud | FinOps |
 | -------- | -------- | -------- | -------- |
 | ... | [argocd-demo](https://github.com/emredenizozer/argocd-demo) |  | 1. [aws-cost-optimization](https://github.com/emredenizozer/aws-cost-optimization) |
 
