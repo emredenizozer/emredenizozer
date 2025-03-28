@@ -7,6 +7,7 @@
 | Kubernetes | DevSecOps | GitOps | FinOps |
 | -------- | -------- | -------- | -------- |
 |  | 1. [k8s-sealed-secrets](https://github.com/emredenizozer/k8s-sealed-secrets) | 1. [argocd-demo](https://github.com/emredenizozer/argocd-demo) | 1. [aws-cost-optimization](https://github.com/emredenizozer/aws-cost-optimization) |
+|  | | | 2. [keda](https://github.com/emredenizozer/keda) |
 
 ---
 
