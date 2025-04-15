@@ -1,8 +1,8 @@
 ## Fullstack with Emre Deniz Özer 
 
-| Microservices | Go Projects | Rust Projects |
-| -------- | -------- | -------- |
-| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | 1. [hangman](https://github.com/emredenizozer/hangman) | 1. [monkey-interpreter-with-rust](https://github.com/emredenizozer/monkey-interpreter-with-rust) |
+| Microservices | Go Projects | Rust Projects | AI |
+| -------- | -------- | -------- | -------- |
+| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | 1. [hangman](https://github.com/emredenizozer/hangman) | 1. [monkey-interpreter-with-rust](https://github.com/emredenizozer/monkey-interpreter-with-rust) | |
 
 | Kubernetes | DevSecOps | GitOps | FinOps |
 | -------- | -------- | -------- | -------- |
