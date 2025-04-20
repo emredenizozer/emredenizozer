@@ -2,7 +2,7 @@
 
 | Microservices | Go Projects | Rust Projects | AI |
 | -------- | -------- | -------- | -------- |
-| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | 1. [hangman](https://github.com/emredenizozer/hangman) | 1. [monkey-interpreter-with-rust](https://github.com/emredenizozer/monkey-interpreter-with-rust) | |
+| 1. [cqrs-demo](https://github.com/emredenizozer/cqrs-demo) | 1. [hangman](https://github.com/emredenizozer/hangman) | 1. [monkey-interpreter-with-rust](https://github.com/emredenizozer/monkey-interpreter-with-rust) | 1. [ai-context-memory](https://github.com/emredenizozer/ai-context-memory) |
 
 | Kubernetes | DevSecOps | GitOps | FinOps |
 | -------- | -------- | -------- | -------- |
